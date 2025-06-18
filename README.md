@@ -1,5 +1,4 @@
 
-```markdown
 # 📇 Contact Management System
 
 A **simple Contact Management System** built using Python's **Tkinter** library for the GUI and **SQLite** for data storage. This desktop application allows users to seamlessly **add, update, delete**, and **view contact information**.
@@ -34,7 +33,6 @@ cd contact-management-system
 python contact_manager.py
 ```
 
----
 
 ## 🧠 Functionality Overview
 
