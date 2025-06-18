@@ -58,5 +58,5 @@ python contact_manager.py
 
 ## 🧑‍💻 Author
 
-**Amritanshu**  
+**Amritanshu Kumar**  
 
